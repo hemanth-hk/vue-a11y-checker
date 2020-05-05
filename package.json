@@ -1,0 +1,27 @@
+{
+  "name": "vue-a11y-checker",
+  "version": "0.0.1",
+  "description": "a11y checking tool for vueJS apps",
+  "main": "vue-a11y-check",
+  "scripts": {
+    "test": "no command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanth-hk/vue-a11y-checker.git"
+  },
+  "keywords": [
+    "vue",
+    "a11y",
+    "pa11y"
+  ],
+  "author": "Hemanth Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemanth-hk/vue-a11y-checker/issues"
+  },
+  "homepage": "https://github.com/hemanth-hk/vue-a11y-checker#readme",
+  "dependencies": {
+    "pa11y": "^5.3.0"
+  }
+}
